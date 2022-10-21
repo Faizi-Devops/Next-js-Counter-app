@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: linear-gradient(to right, red , yellow);
+}
+.total{
+    height: 500px;
+    width: 30%;
+    margin: 60px auto;
+    background-color: #4cd137;
+    border-radius: 10px;
+}
+.A{
+    height: 70px;
+    background-color: red;
+    width: 100%;
+    border-radius: 10px;
+}
+.B{
+    text-align: center;
+    padding-top:14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.count{
+    margin-top: 80px;
+    background-color: green;
+    height: 100px;
+   
+    
+}
+.C{
+
+    font-size: 50px;
+    text-align: center;
+    padding-top: 17px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Mar{
+    margin-top: 40px;
+    text-align: center;
+    
+}
+.side{
+    margin-left: 20px;
+}
